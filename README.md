@@ -10,6 +10,6 @@
 
 
 
-### 그딴거 모른겠다 니가 악성코드를 포함했든말든 편하게 쓸거다.
+### 그딴거 모르겠다 니가 악성코드를 포함했든말든 편하게 쓸거다.
 
 * https://github.com/Rogal3/POE-Flask-macro/releases/download/v1.0/2to12345.exe
