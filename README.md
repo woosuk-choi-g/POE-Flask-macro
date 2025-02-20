@@ -5,7 +5,7 @@ POE 에서 플라스크를 간편하게 사용하기 위한 매크로 프로그�
 - 키보드 숫자 2를 입력하면 모든 플라스크가 한번에 사용됩니다.
 
 # 다운로드
-https://github.com/Rogal3/POE-Flask-macro/raw/master/2to12345.exe
+https://github.com/woosuk-choi-g/POE-Flask-macro/releases/download/v1.0/2to12345.exe
 
 # 실행법
 2to12345.exe 파일을 관리자 권한으로 실행합니다.
